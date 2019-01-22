@@ -1,0 +1,77 @@
+[
+	{
+		"id"				: 0,
+		"url"				: "/img/index/week_examples/week40_small.jpg",
+		"caption"			: ""
+	},
+	{
+		"id"				: 1,
+		"url"				: "/img/index/week_examples/week42_small.jpg",
+		"caption"			: ""
+	},
+	{
+		"id"				: 2,
+		"url"				: "/img/index/week_examples/week50_small.jpg",
+		"caption"			: ""
+	},
+	{
+		"id"				: 3,
+		"url"				: "/img/index/week_examples/week2_small.jpg",
+		"caption"			: ""
+	},
+	{
+		"id"				: 4,
+		"url"				: "/img/index/week_examples/week40_medium.jpg",
+		"caption"			: ""
+	},
+	{
+		"id"				: 5,
+		"url"				: "/img/index/week_examples/week42_medium.jpg",
+		"caption"			: ""
+	},
+	{
+		"id"				: 6,
+		"url"				: "/img/index/week_examples/week50_medium.jpg",
+		"caption"			: ""
+	},
+	{
+		"id"				: 7,
+		"url"				: "/img/index/week_examples/week25_medium.jpg",
+		"caption"			: ""
+	},
+	{
+		"id"				: 8,
+		"url"				: "/img/index/week_examples/week40_large.jpg",
+		"caption"			: ""
+	},
+	{
+		"id"				: 9,
+		"url"				: "/img/index/week_examples/week42_large.jpg",
+		"caption"			: ""
+	},
+	{
+		"id"				: 10,
+		"url"				: "/img/index/week_examples/week50_large.jpg",
+		"caption"			: ""
+	},
+	{
+		"id"				: 11,
+		"url"				: "/img/index/week_examples/week31_large.jpg",
+		"caption"			: ""
+	},
+	{
+		"id"				: 12,
+		"url"				: "/img/index/week_examples/week34_small.jpg",
+		"caption"			: ""
+	},
+	{
+		"id"				: 13,
+		"url"				: "/img/index/week_examples/week34_medium.jpg",
+		"caption"			: ""
+	},
+	{
+		"id"				: 14,
+		"url"				: "/img/index/week_examples/week34_large.jpg",
+		"caption"			: ""
+	}
+]

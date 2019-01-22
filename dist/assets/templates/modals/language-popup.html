@@ -1,0 +1,15 @@
+<div class="lang-popup lang-popup-animate" ng-show="langPopupService.isOpen">
+<button class="lang-popup__close" ng-click="langPopupService.close()">&times;</button>
+<p class="lang-popup__title" ng-bind-html="languagePopupController.title"></p>
+<div ng-repeat="lang in languagePopupController.languages"
+         class="lang-popup__item">
+<a ng-click="languagePopupController.gotoLanguage(lang.code)" href="javascript:"
+           bo-track
+           bo-track-on="click"
+           bo-track-event="gtm.event.languageSelected"
+           bo-track-properties="{ event: 'LANGUAGE_SELECTED', locale: $parent.lang.code, source: 'POPUP' }"
+        >
+{[ lang.fullName ]}
+</a>
+</div>
+</div>

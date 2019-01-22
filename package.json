@@ -1,0 +1,30 @@
+{
+  "name": "web-deloyment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "2checkout-node": "0.0.1",
+    "@sendgrid/mail": "^6.3.1",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "nexmo": "^2.4.0",
+    "request-promise": "^4.2.2",
+    "sendgrid": "^5.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://moeidsaleem@bitbucket.org/moeidsaleem/bloom-web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/moeidsaleem/bloom-web#readme",
+  "engines": {
+    "node": "10.14.2"
+  }
+}
